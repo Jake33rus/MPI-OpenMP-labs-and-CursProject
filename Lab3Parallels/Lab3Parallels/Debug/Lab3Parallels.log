@@ -1,0 +1,5 @@
+﻿  Lab3Parallels.cpp
+C:\Users\Jake3\source\repos\Lab3Parallels\Lab3Parallels\Lab3Parallels.cpp(180,17): warning C4101: req: неиспользованная локальная переменная
+C:\Users\Jake3\source\repos\Lab3Parallels\Lab3Parallels\Lab3Parallels.cpp(373,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Jake3\source\repos\Lab3Parallels\Lab3Parallels\Lab3Parallels.cpp(402,27): warning C4101: Dt: неиспользованная локальная переменная
+  Lab3Parallels.vcxproj -> C:\Users\Jake3\source\repos\Lab3Parallels\Debug\Lab3Parallels.exe

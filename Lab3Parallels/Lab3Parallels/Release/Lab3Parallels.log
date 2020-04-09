@@ -1,0 +1,8 @@
+﻿  Lab3Parallels.cpp
+C:\Users\Jake3\source\repos\Lab3Parallels\Lab3Parallels\Lab3Parallels.cpp(180,17): warning C4101: req: неиспользованная локальная переменная
+C:\Users\Jake3\source\repos\Lab3Parallels\Lab3Parallels\Lab3Parallels.cpp(255,17): warning C4101: buf: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Lab3Parallels.vcxproj -> C:\Users\Jake3\source\repos\Lab3Parallels\Release\Lab3Parallels.exe
